@@ -23,6 +23,7 @@
     color: #FFFFFF;
     font-weight: 900;
     font-size: 40px;
+    overflow: hidden;
 }
 .keybord{
     height: 370px;
